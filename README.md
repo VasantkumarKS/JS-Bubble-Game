@@ -17,13 +17,10 @@ An interactive JavaScript Bubble Game where players can shoot bubbles, counted t
 4. Match and pop as many bubbles as you can to increase your score.
 5. Once the game is over, your final score will be displayed on the screen.
 
-## Demo
-
-[Include a link or GIF demonstrating your game here]
 
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript 
 
