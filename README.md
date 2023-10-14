@@ -24,3 +24,4 @@ An interactive JavaScript Bubble Game where players can shoot bubbles, counted t
 - CSS
 - JavaScript 
 
+  Thanks for (Sheryians Coding School)
