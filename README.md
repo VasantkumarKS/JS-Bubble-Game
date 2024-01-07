@@ -16,6 +16,7 @@ An interactive JavaScript Bubble Game where players can shoot bubbles, counted t
 3. Use your mouse or keyboard to interact with the game and shoot bubbles.
 4. Match and pop as many bubbles as you can to increase your score.
 5. Once the game is over, your final score will be displayed on the screen.
+   
 
 
 ## Technologies Used
